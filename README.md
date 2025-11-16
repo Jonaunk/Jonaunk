@@ -3,7 +3,7 @@
 I spend most of my time building backend systems that are practical, scalable, and clear enough to grow without becoming chaotic.  
 Most of my hands-on work involves **.NET**, **Node.js**, and **SQL Server**, but what interests me goes beyond the stack itself.
 
-> **I’m interested in how ideas become architecture**   
+> **I’m interested in how ideas become architecture** —  
 > how an abstract problem turns into something shapeable, designable, and eventually reliable.
 
 ---
