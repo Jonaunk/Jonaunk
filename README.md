@@ -1,5 +1,3 @@
-## 🧩 COO & Backend Engineer at **Append**
-
 I work mainly on backend systems using **.NET**, **Node.js**, and **SQL Server**.  
 I like building things that are clear, stable, and easy to maintain over time.
 
