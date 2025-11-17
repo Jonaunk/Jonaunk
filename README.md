@@ -10,9 +10,6 @@ I try to keep things simple, avoid unnecessary complexity, and pick solutions th
 I care about structure, but I also enjoy trying new ideas when they solve a problem better.
 
 Right now, my focus is backend and platform architecture — keeping the core stable while we continue improving and expanding the system.
-
-### 🧱 **Designing structures, not patches.**
-
 ---
 
 ## 🔗 Links
