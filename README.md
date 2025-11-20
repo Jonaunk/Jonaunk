@@ -1,15 +1,13 @@
-I work mainly on backend systems using **.NET**, **Node.js**, and **SQL Server**.  
-I like building things that are clear, stable, and easy to maintain over time.
+I build internal platforms, backend services, and the foundations that keep products stable as they grow.
+My work sits between architecture, development, and the operational decisions that make a system healthy over time.
 
-At Append, I’m involved in the internal service layer, the Identity system, and the early foundations of the SaaS products we’re building.  
-My work sits somewhere between writing code and making decisions that help the platform grow in a reasonable way.
+At Append, I’m involved in identity, service orchestration, CI/CD, and the core platform layer that our products depend on.
+I focus on clarity, maintainability, and long-term structure — keeping things simple enough to evolve, but solid enough to support real usage.
 
-I pay attention to how systems behave as they grow and how teams interact with the code they inherit.  
-I try to keep things simple, avoid unnecessary complexity, and pick solutions that make sense in the long run.
+I pay attention to how systems behave under pressure, how teams interact with the code they inherit, and how small decisions accumulate into larger outcomes.
+I try new ideas when they solve a real problem, but I avoid complexity for its own sake.
 
-I care about structure, but I also enjoy trying new ideas when they solve a problem better.
-
-Right now, my focus is backend and platform architecture — keeping the core stable while we continue improving and expanding the system.
+Right now, my focus is platform architecture and backend design — building a base that we can grow without losing stability.
 
 ---
 
