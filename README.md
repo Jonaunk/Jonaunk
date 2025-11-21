@@ -1,13 +1,12 @@
-I build internal platforms, backend services, and the foundations that keep products stable as they grow.
-My work sits between architecture, development, and the operational decisions that make a system healthy over time.
+I build backend systems, internal services, and the platform foundations that keep products stable as they grow.
+My focus is on clarity, long-term structure, and decisions that reduce complexity instead of feeding it.
 
-At Append, I’m involved in identity, service orchestration, CI/CD, and the core platform layer that our products depend on.
-I focus on clarity, maintainability, and long-term structure — keeping things simple enough to evolve, but solid enough to support real usage.
+At Append, I work on identity, service orchestration, CI/CD, and the core application layer behind our products.
+I care about how systems behave under pressure, how teams interact with the code they inherit, and how architecture shapes the velocity of a company.
 
-I pay attention to how systems behave under pressure, how teams interact with the code they inherit, and how small decisions accumulate into larger outcomes.
-I try new ideas when they solve a real problem, but I avoid complexity for its own sake.
+I avoid unnecessary abstraction, prefer simple constructs with strong boundaries, and design for long-term maintainability over short-term convenience.
 
-Right now, my focus is platform architecture and backend design — building a base that we can grow without losing stability.
+Right now, I’m focused on platform architecture and backend design — building a base that can scale without losing stability.
 
 ---
 
