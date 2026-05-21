@@ -1,6 +1,6 @@
 # Jonathan Páez
 
-**Co-Founder & Head of Operations @ Append**
+**Co-Founder @ Append**
 
 I lead platform architecture, cloud infrastructure, and backend engineering. I build the core foundations that keep our products stable and cost-efficient as they scale.
 
